@@ -1,0 +1,32 @@
+\frametitle{Appendix D - Creating a Handout of a Presentation}
+{\tiny
+ To create a handout of your presentation just simply add the
+option \verb|[handout]| to your \verb|\documentclass| definition. To
+put several slides on one page do the following:
+\begin{quote}
+\begin{verbatim}
+\mode<handout>{
+\usepackage{pgfpages}
+\pgfpagesuselayout{2 on 1}[a4paper,border shrink=5mm]}
+\end{verbatim}
+\end{quote}
+
+Instead of 2 on 1 you can also use 4 on 1, but then add
+\verb|landscape| to the options of \verb|\pgfpagesuselayout| once
+more, and also 8 on 1 and even 16 on 1 to get a grand (though
+unreadable) overview.
+
+If you put several slides on one page and if these slides normally
+have a white background, it may be useful to write the following in
+your preamble:
+\begin{quote}
+\begin{verbatim}
+\mode<handout>{\setbeamercolor{background canvas}{bg=black!10}}
+\end{verbatim}
+\end{quote}
+ This will cause the slides of the handout version to have a very
+light gray background. This makes it easy to discern the slides
+border if several slides are put on one page.
+
+Here \verb|\mode<handout>| stands to say that these options take
+effect only in \verb|handout| mode.}

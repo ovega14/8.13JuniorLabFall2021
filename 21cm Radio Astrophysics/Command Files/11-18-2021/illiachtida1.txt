@@ -1,0 +1,46 @@
+: freq 1420.4 4
+: azel 240 50
+: noisecal
+
+: record illiachtida1.rad
+: G20
+: repeat 20
+: G30
+: repeat 20
+: G40
+: repeat 20
+: G50
+: repeat 20
+: G60
+: repeat 20
+: G70
+: repeat 20
+: G80
+: repeat 20
+: 690
+: repeat 20
+: G100
+: repeat 20
+: G110
+: repeat 20
+: G120
+: repeat 20
+: G130
+: repeat 20
+: G140
+: repeat 20
+: G150
+: repeat 20
+: G160
+: repeat 20
+: G170
+: repeat 20
+: G180
+: repeat 20
+: G190
+: repeat 20
+: G200
+: repeat 20
+
+: rofff
+: stow

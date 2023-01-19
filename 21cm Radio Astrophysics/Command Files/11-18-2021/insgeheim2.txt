@@ -1,0 +1,11 @@
+: freq 1420.4 4
+: azel 240 50
+: noisecal
+
+: record insgeheim.rad
+: G60
+: repeat 20
+: G70
+: repeat 20
+: rofff
+: stow

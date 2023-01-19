@@ -1,0 +1,22 @@
+* STATION LAT=  42.36 DEG LONG= -71.09
+* ROLLOFF = 12, Mode 4 MATCH = 1
+* Each line is the average of 1 scans
+* starting recording v>=2.00
+* el_scan_2.cmd: line 2 : record el_scan_1 2
+2021:320:20:57:39	 240.7	  3.0	  0.0	  0.0	346.9	 30.0	 1419.75	0.00781250	  1	 64	  6.0	  7.4	 13.1	 25.8	 49.8	 86.5	137.5	192.7	271.2	265.4	271.7	283.0	277.6	274.0	267.7	264.3	268.8	275.7	283.7	293.3	293.5	268.5	252.8	262.9	259.9	271.3	268.7	260.5	261.2	274.4	288.6	276.2	272.4	264.1	266.8	269.8	293.5	284.0	286.7	274.5	282.2	280.1	276.5	282.6	312.0	299.1	291.9	294.7	301.2	286.2	273.0	277.1	283.6	297.8	308.3	290.7	287.6	190.8	134.8	 89.6	 50.3	 26.0	 13.5	  7.6	vlsr	  -10.10
+* el_scan_2.cmd: line 4 : offset 0 -30
+* ERROR cmd out of limits
+* el_scan_2.cmd: line 5 : offset 0 -28
+* el_scan_2.cmd: line 6 : offset 0 -26
+* el_scan_2.cmd: line 7 : offset 0 -24
+* el_scan_2.cmd: line 8 : offset 0 -22
+* el_scan_2.cmd: line 9 : offset 0 -20
+* el_scan_2.cmd: line 10 : offset 0 -18
+* el_scan_2.cmd: line 11 : offset 0 -16
+* el_scan_2.cmd: line 12 : offset 0 -14
+* el_scan_2.cmd: line 13 : offset 0 -12
+* el_scan_2.cmd: line 14 : offset 0 -10
+* el_scan_2.cmd: line 15 : offset 0 -8
+* el_scan_2.cmd: line 16 : offset 0 -6
+* el_scan_2.cmd: line 17 : offset 0 -4
+* stopping recording
